@@ -45,7 +45,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=KakaNadhif&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
